@@ -19,6 +19,7 @@ Through statistical analysis and Excel dashboarding, I identified three major fi
 - Institutional ROI Matrix: A cross-tabulation comparing College Tiers against performance buckets.
 
 ## Repository Structure
+- Internship Selection Analysis.csv: The data downloaded from Kaggle: https://www.kaggle.com/datasets/aiexplorer77/internship-selection-prediction-dataset?resource=download
 - cleaned_internship_data.csv: The processed dataset ready for analysis.
 - Internship_Analysis_Final.xlsx: Interactive Excel dashboard with Pivot Tables and Charts.
-- Analysis_Notebook.ipynb: Python code used for initial data cleaning and correlation checks.
+- Internship_Data_Cleaning.ipynb: Python code used for initial data cleaning and correlation checks.
