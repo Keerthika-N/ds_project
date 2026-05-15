@@ -18,7 +18,7 @@ Through statistical analysis and Excel dashboarding, I identified three major fi
 - Selection Probability Trend: A line analysis showing the direct correlation between interview scores and hiring outcomes.
 - Institutional ROI Matrix: A cross-tabulation comparing College Tiers against performance buckets.
 
-# Repository Structure
+## Repository Structure
 - cleaned_internship_data.csv: The processed dataset ready for analysis.
 - Internship_Analysis_Final.xlsx: Interactive Excel dashboard with Pivot Tables and Charts.
 - Analysis_Notebook.ipynb: Python code used for initial data cleaning and correlation checks.
